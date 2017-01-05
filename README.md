@@ -1,7 +1,6 @@
 # React D3 Blog Example
 
-This is example code for the React D3 Test Double blog post.
-## TODO ADD LINK TO POST WHEN PUBLISHED
+This is example code for my React D3 Test Double [blog post](https://samljones.com/2017-01-05/well-factored-pie-graph-react-d3/).
 
 The code makes a Pie graph react component that renders with D3.
 
